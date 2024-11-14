@@ -5,7 +5,7 @@ This is a proof of concept (demo) for TinyTalk. It is a simple chat application 
 1. Clone the repository
 2. Install the required packages using `pip install -r requirements.txt`
 3. Copy `config.yaml.example` to `config.yaml` and fill in the API keys
-4. Run the application using `python main.py`!
+4. Run the application using `python main.py`
 
 ## Preview:
 ![preview](https://i.ibb.co/tP7Fv7T/01908-D42-1-D92-402-B-8-C26-3-B6-FD4-D5-E0-C9.png)

@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+recorded_sample.wav
+config.yaml

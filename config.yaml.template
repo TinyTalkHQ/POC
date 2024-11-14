@@ -1,0 +1,13 @@
+words_dictionary:
+  - word: "car"
+    emoji: "🚗"
+  - word: "ball"
+    emoji: "⚽"
+  - word: "apple"
+    emoji: "🍎"
+  - word: "star"
+    emoji: "⭐"
+
+api_keys:
+  azure_speech_key: "XXXXXXXXXXXXX"
+  azure_service_region: "westeurope"
